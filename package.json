@@ -14,12 +14,14 @@
     "@tailwindcss/vite": "^4.1.17",
     "dayjs": "^1.11.19",
     "gsap": "^3.13.0",
+    "immer": "^11.0.0",
     "path": "^0.12.7",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-tooltip": "^5.30.0",
     "tailwindcss": "^4.1.17",
-    "url": "^0.11.4"
+    "url": "^0.11.4",
+    "zustand": "^5.0.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
